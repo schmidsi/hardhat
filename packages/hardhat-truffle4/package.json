@@ -1,6 +1,6 @@
 {
   "name": "@nomiclabs/hardhat-truffle4",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "Truffle 4 Hardhat compatibility plugin",
   "homepage": "https://github.com/nomiclabs/hardhat/tree/master/packages/hardhat-truffle4",
   "repository": "github:nomiclabs/hardhat",
@@ -52,7 +52,7 @@
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-import": "2.24.1",
     "eslint-plugin-prettier": "3.4.0",
-    "hardhat": "^2.6.4",
+    "hardhat": "^2.11.0",
     "mocha": "^10.0.0",
     "prettier": "2.4.1",
     "rimraf": "^3.0.2",

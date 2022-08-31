@@ -1,6 +1,6 @@
 {
   "name": "@nomiclabs/hardhat-vyper",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Hardhat plugin to develop smart contracts in Vyper",
   "repository": "github:nomiclabs/hardhat",
   "homepage": "https://github.com/nomiclabs/hardhat/tree/master/packages/hardhat-vyper",
@@ -51,7 +51,7 @@
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-import": "2.24.1",
     "eslint-plugin-prettier": "3.4.0",
-    "hardhat": "^2.8.3",
+    "hardhat": "^2.11.0",
     "mocha": "^10.0.0",
     "prettier": "2.4.1",
     "rimraf": "^3.0.2",
